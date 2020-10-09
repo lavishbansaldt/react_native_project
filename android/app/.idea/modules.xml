@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1246545126/ReactNativePOC.iml" filepath="$PROJECT_DIR$/.idea/modules/-1246545126/ReactNativePOC.iml" group="ReactNativePOC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="ReactNativePOC/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-109879596/react-native-code-push.iml" filepath="$PROJECT_DIR$/.idea/modules/-109879596/react-native-code-push.iml" group="ReactNativePOC/react-native-code-push" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1809414889/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1809414889/react-native-community_masked-view.iml" group="ReactNativePOC/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1994051086/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1994051086/react-native-gesture-handler.iml" group="ReactNativePOC/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2120793934/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/2120793934/react-native-reanimated.iml" group="ReactNativePOC/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1379048183/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1379048183/react-native-safe-area-context.iml" group="ReactNativePOC/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2077094863/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/2077094863/react-native-screens.iml" group="ReactNativePOC/react-native-screens" />
+    </modules>
+  </component>
+</project>

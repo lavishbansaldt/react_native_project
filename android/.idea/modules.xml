@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AwesomeNativeApp.iml" filepath="$PROJECT_DIR$/.idea/modules/AwesomeNativeApp.iml" group="AwesomeNativeApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReactNativePOC.iml" filepath="$PROJECT_DIR$/.idea/modules/ReactNativePOC.iml" group="ReactNativePOC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1865708754/ReactNativePOC-react-native-code-push.iml" filepath="$PROJECT_DIR$/.idea/modules/-1865708754/ReactNativePOC-react-native-code-push.iml" group="ReactNativePOC/react-native-code-push" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="ReactNativePOC/app" />
+    </modules>
+  </component>
+</project>
